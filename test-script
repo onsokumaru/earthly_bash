@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+# echo "script ran at $(date)" >> script.out
+# echo "script ran at $(date +"%F %T %Z")" >> script.out
+printf "Hello from Earthly!\n"
+
